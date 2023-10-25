@@ -12,10 +12,10 @@ I'm Héctor Garza, a lifelong learner passionate about merging diverse programmi
 🔭 I’m currently working as a Robotics Instructor at VantTec Monterrey.
 🌱 I’m pursuing a B.S in Computer Science and Technology at the Institute of Technology and Higher Education.
 
-💬 Ask me about robotics, programming, or anything tech-related!
+💬 Ask me about hardawre, programming, or anything tech-related!
 📫 You can reach me at [hectoreduardogarzafraga@gmail.com](mailto:hectoreduardogarzafraga@gmail.com).
 
-⚡ Fun fact: I'm a fast learner, self-driven, and highly motivated to take on new challenges.
+
 
 ### Skills:
 - Python (Experienced)
