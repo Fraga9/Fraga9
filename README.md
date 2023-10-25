@@ -26,6 +26,14 @@ I'm Héctor Garza, a lifelong learner passionate about merging diverse programmi
 
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fraga9" alt="fraga9" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fraga9&show_icons=true&locale=en" alt="fraga9" /></p>
+
 
 ### Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/Fraga9/count.svg)
