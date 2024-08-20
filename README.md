@@ -20,9 +20,8 @@ I'm Héctor Garza, a lifelong learner passionate about merging diverse programmi
 ### Skills:
 - Python (Experienced)
 - C++ (Intermediate)
-- MATLAB (Intermediate)
-- Arduino (Proficient)
-- SQL (Beginner)
+- Javascript (Proficient)
+- SQL (Proficient)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fraga9&theme=onedark" alt="fraga9" /></a> </p>
