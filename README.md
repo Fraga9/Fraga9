@@ -9,7 +9,6 @@
 
 I'm Héctor Garza, a lifelong learner passionate about merging diverse programming domains to craft innovative solutions.
 
-🔭 I’m currently working as a Robotics Instructor at VantTec Monterrey.
 🌱 I’m pursuing a B.S in Computer Science and Technology at the Institute of Technology and Higher Education.
 
 💬 Ask me about hardawre, programming, or anything tech-related!
